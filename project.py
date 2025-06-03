@@ -10,7 +10,7 @@ class PDF(FPDF):
         """Method to create the header section of the PDF."""
         # Rendering logo:
         self.image(
-            "/workspaces/107325954/CS50Python/project/Logo_ small.png", 15, 10, 33
+            "Logo_ small.png", 15, 10, 33
         )
         # Setting font: times
         self.set_font("times", size=10)
