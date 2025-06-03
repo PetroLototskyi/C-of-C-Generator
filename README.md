@@ -1,5 +1,5 @@
 # Certificate of Conformance Generator
-#### Video Demo: 
+#### Video Demo: <https://youtu.be/J-NzHoGHpgI>
 ## Project Overview:
 The project is a Python script designed to generate a Certificate of Conformance (C of C) in PDF format based on information obtained from two CSV files containing address and inspection data. The C of C includes customer details, order information, item descriptions, and approval sections. The script is interactive, allowing users to input part numbers, select customer names, and add additional notes as needed.
 
